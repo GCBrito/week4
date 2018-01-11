@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515627388581.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6D5C3CA",
+    "lastKnownWriteTime" : 1515637067,
+    "last_content_update" : 1515637067746,
+    "path" : "C:/Users/gctbr/Desktop/Coursera/Week 4/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "cursorPosition" : "11,45",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
