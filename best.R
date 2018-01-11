@@ -7,7 +7,7 @@ best <- function(state, outcome) {
         colnames(mydata) <- c("Hospital.Name","State","heart attack" ,
                               "heart failure","pneumonia")    
         
-        # 2. Checks whether state exists
+        # 2. Checks whether state and outcome exist
         validst <- state %in% mydata$State
         if(validst==0){stop("invalid state")}
         validout<- outcome %in% c("pneumonia","heart attack", "heart failure")
